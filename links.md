@@ -41,7 +41,7 @@ programs using punch cards was frequently quicker than actually running them.
 The operating system (or OS), which is only a program with special rights that 
 enables it to run and manage other programs, provided the solution.
 
-#WEEK-01
+# WEEK-01
 
 1. [10 Linux Terminal Commands for Beginners](https://www.youtube.com/watch?v=CpTfQ-q6MPU)<br>
 There are several Linux commands that are recommended for students to understand. 
