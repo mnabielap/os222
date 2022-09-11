@@ -11,7 +11,18 @@ ZCZC W00 60 L10 Assignment #00
 ZCZC W01 100 L02 ZOOM meetings related on 6 Sept
 ZCZC W01 100 L02 ZOOM meetings related on 8 Sept
 ZCZC W01 10 L01 SCELE/Discord related
+ZCZC W01 3 L05 Quiz 1
 ZCZC W01 240 L11 Assignment #01: Setup a VirtualBox Debian Guest
+ZCZC W01 140 L11 Installing a VirtualBox Debian Guest (ISO File)
+ZCZC W01 40 L11 Running a VirtualBox Debian Guest
+ZCZC W01 40 L11 Dress Up Your Virtual Guest
+ZCZC W01 20 L11 PULL from / PUSH to GitHub.com
 ZCZC W01 15 L31 Downloaded and Installed VirtualBox
 ZCZC W01 15 L27 Downloaded and Installed PuTTY and WinSCP
 ZCZC W01 30 L62 Configure Installed Debian Guest
+ZCZC W01 60 L12 Assignment #02: The ATM Way: GSGS and Read
+ZCZC W01 10 L27 Downloaded and Installed PuTTY and WinSCP
+ZCZC W01 45 L32 Watched Linux Commands, Vim commands, Regex, and Bash Script Tutorials on YouTube
+ZCZC W01 10 L40 TXT/ related in general.
+ZCZC W01 90 Assignment #3: LINKS/ (Reading Assignments)
+ZCZC W01 10 Assignment #4: Finishing (added myupdate.txt)
