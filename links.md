@@ -1,14 +1,14 @@
 ---
 permalink: LINKS/
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
+<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}[mnabielap](https://github.com/mnabielap/os222)</span>
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
 [TIPS]({{ site.baseurl }}/TIPS/) ---
-[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
+[LOG](https://mnabielap.github.io/os222/TXT/mylog.txt) ---
 [TARBALL](SandBox/mnabielap.tar.xz) ---
-[GITHUB]({{ site.githublink }})
+[GITHUB](https://github.com/mnabielap/os222)
 <br>
 <hr>
 
@@ -52,6 +52,7 @@ totaling 50. We don't have to memorize them, only 10 commands we mush understand
 Some of the commonly used commands with Regular expressions are tr, sed, vi and grep. 
 Listed below are some of the basic Regex.
 Symbol	Descriptions
+```
 .	| replaces any character
 ^	| matches start of string
 $	| matches end of string
@@ -59,6 +60,7 @@ $	| matches end of string
 \	| Represent special characters
 ()	| Groups regular expressions
 ?	| Matches up exactly one character
+```
 
 3. [Basic vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html)<br>
 The most well-known and traditional text editor for Linux is the VI editor. The 
