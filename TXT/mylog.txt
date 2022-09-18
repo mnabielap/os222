@@ -26,3 +26,24 @@ ZCZC W01 45 L32 Watched Linux Commands, Vim commands, Regex, and Bash Script Tut
 ZCZC W01 10 L40 TXT/ related in general.
 ZCZC W01 90 Assignment #3: LINKS/ (Reading Assignments)
 ZCZC W01 10 Assignment #4: Finishing (added myupdate.txt)
+ZCZC W02 100 L02 ZOOM meetings related on 13 Sept
+ZCZC W02 100 L02 ZOOM meetings related on 15 Sept
+ZCZC W02 10 L01 SCELE Checking SCELE for Information
+ZCZC W02 45 L05 Quiz 2 related including studying
+ZCZC W02 120 L06 Reading Silberschatz et. al.: Operating System Concepts (ch16 and 17)
+ZCZC W02 40 L21 Trying Previous MidTerm Problems
+ZCZC W02 20 L07 Checking Demo
+ZCZC W02 30 L32 Watch Cyber Security video
+ZCZC W02 30 L32 Watch Employee Security Policy
+ZCZC W02 30 L32 Watch Privacy videos
+ZCZC W02 45 L12 Assignment #2: GnuPG
+ZCZC W02 10 L12 Generating a GnuPG KEY PAIR
+ZCZC W02 10 L12 List of current GnuPG keys
+ZCZC W02 5 L12 Importing the Operating Systems public key
+ZCZC W02 10 L12 Signing the Operating Systems public key (Optional)
+ZCZC W02 10 L12 Export Public Key “mypubkey.txt” (os222)
+ZCZC W02 30 L13 Assignment #3: /LINKS (including summarize)
+ZCZC W02 20 L43 Assignments #4: Review 10 links every week
+ZCZC W02 15 L15 Assignment #5: Script Download
+ZCZC W02 10 L16 Assignment #6: Finishing
+ZCZC W02 5 L03 GitHub and git related, including commit, push, pull
