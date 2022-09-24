@@ -47,3 +47,23 @@ ZCZC W02 20 L43 Assignments #4: Review 10 links every week
 ZCZC W02 15 L15 Assignment #5: Script Download
 ZCZC W02 10 L16 Assignment #6: Finishing
 ZCZC W02 5 L03 GitHub and git related, including commit, push, pull
+ZCZC W03 100 L02 ZOOM meetings related on 20 Sept
+ZCZC W03 100 L02 ZOOM meetings related on 22 Sept
+ZCZC W03 15 L01 SCELE Checking SCELE for Information
+ZCZC W03 20 L05 Quiz 3 - 02 related including studying
+ZCZC W03 30 L05 Quiz 3 - 01 related including studying
+ZCZC W03 120 L06 Reading Silberschatz et. al.: Operating System Concepts (ch13, 14, 15)
+ZCZC W03 30 L21 Trying Previous MidTerm Problems
+ZCZC W03 120 L64 Helping a friend (OS related problem)
+ZCZC W03 15 L07 Checking Demo
+ZCZC W03 90 L32 Watching Files & File Systems course in YouTube
+ZCZC W03 20 L06 Read website about File System
+ZCZC W03 60 L12 Assignment #02: Add/Create An Extra Virtual Disk
+ZCZC W03 10 L12 Assignment #02: Re-check your “.bash_aliases” file
+ZCZC W03 10 L12 Assignment #02: Find Your New Disk
+ZCZC W03 10 L12 Assignment #02: Formating Your New Disk
+ZCZC W03 10 L12 Assignment #02: Mounting Your New Disk
+ZCZC W03 10 L12 Assignment #02: Change Owner Your New Disk
+ZCZC W03 10 L12 Assignment #02: Script Download
+ZCZC W03 15 L13 Assignment #03: Finishing
+ZCZC W02 10 L03 GitHub and git related, including commit, push, pull
