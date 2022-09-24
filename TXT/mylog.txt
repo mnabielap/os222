@@ -66,4 +66,4 @@ ZCZC W03 10 L12 Assignment #02: Mounting Your New Disk
 ZCZC W03 10 L12 Assignment #02: Change Owner Your New Disk
 ZCZC W03 10 L12 Assignment #02: Script Download
 ZCZC W03 15 L13 Assignment #03: Finishing
-ZCZC W02 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W03 10 L03 GitHub and git related, including commit, push, pull
