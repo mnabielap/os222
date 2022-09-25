@@ -136,19 +136,19 @@ to /home once they could afford a third drive.
 ```
 To encrypt a file with GPG:
 
-# gpg --armor --output output.asc --encrypt --recipient <recipient-userid> <file>
+gpg --armor --output output.asc --encrypt --recipient <recipient-userid> <file>
 
 To decrypt a file with GPG:
 
-#gpg --output file.txt --decrypt output.asc
+gpg --output file.txt --decrypt output.asc
 
 To encrypt a file with GPG symmetric key:
 
-# gpg --armor --output output.asc symmetric file.txt
+gpg --armor --output output.asc symmetric file.txt
 
 To decrypt a file with GPG symmetric key:
 
-# gpg --output file.txt -d output.asc
+gpg --output file.txt -d output.asc
 ```
 
 
