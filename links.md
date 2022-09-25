@@ -105,6 +105,52 @@ This website is very useful for beginners to online privacy. After reading this,
 Pyramid of Privacy where can teach us to protect our own data from bottom to the top. From OS to Script 
 and cookies. In this part, I learn about risk and solution too.
 
+## WEEK-03
+
+1. [Operating System Concepts: File-System Interface](https://www.os-book.com/OS10/slide-dir/PPTX-dir/ch13.pptx)<br>
+In this slide, I learn about the function of file systems; the interfaces to file systems; 
+file-system design tradeoffs, including access methods, file sharing, file locking, and directory structures
+; and file-system protection
+
+2. [Operating System Concepts: File System Implementation](https://www.os-book.com/OS10/slide-dir/PPTX-dir/ch14.pptx)<br>
+By reading this slide, I understand more about  the details of implementing local file systems and directory
+structures, block allocation and free-block algorithms and trade-offs, file system efficiency and performance issues, 
+recovery from file system failures, and  the WAFL file system as a concrete example
+
+3. [Operating System Concepts: File System Internals](https://www.os-book.com/OS10/slide-dir/PPTX-dir/ch14.pptx)<br>
+After reading and learning this slide, I learn more about delve into the details of file systems and their implementation, 
+explore booting and file sharing, remote file systems, using NFS as an example.
+
+4. [File Systems in Operating System: Structure, Attributes, Types](https://www.guru99.com/file-systems-operating-system.html)<br>
+The term "file" refers to a grouping of linked data that is stored on secondary or non-volatile media, such as magnetic disks, optical disks, and tapes.
+I/O support is offered for a range of storage device types. When a user signs off, the files they have stored on a disk or another type of storage remain 
+there. A File Structure must have a predetermined format in order for an operating system to recognize it. The capacity of the operating system to distinguish 
+between various file kinds, such as text files, binary files, and source files, is referred to as file type.
+
+5. [Learning the Linux File System](https://www.youtube.com/watch?v=HIXzJ3Rz9po)<br>
+In the first Unix system, the operating system (/) and user home directories (/usr) were stored on separate disks. The numerous /usr/something folders were 
+created as a result of the need to relocate some files to other disks as the operating system expanded. The user home directories were transferred from /usr 
+to /home once they could afford a third drive.
+
+6. [How to encrypt and decrypt files with GPG?](https://www.thesecuritybuddy.com/pgp-and-gpg/how-to-encrypt-and-decrypt-files-with-gpg/)<br>
+```
+To encrypt a file with GPG:
+
+# gpg --armor --output output.asc --encrypt --recipient <recipient-userid> <file>
+
+To decrypt a file with GPG:
+
+#gpg --output file.txt --decrypt output.asc
+
+To encrypt a file with GPG symmetric key:
+
+# gpg --armor --output output.asc symmetric file.txt
+
+To decrypt a file with GPG symmetric key:
+
+# gpg --output file.txt -d output.asc
+```
+
 
 <br>
 <hr>
