@@ -67,3 +67,18 @@ ZCZC W03 10 L12 Assignment #02: Change Owner Your New Disk
 ZCZC W03 10 L12 Assignment #02: Script Download
 ZCZC W03 15 L13 Assignment #03: Finishing
 ZCZC W03 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W04 100 L02 ZOOM meetings related on 27 Sept
+ZCZC W04 100 L02 ZOOM meetings related on 29 Sept
+ZCZC W04 10 L01 SCELE Checking SCELE for Information
+ZCZC W04 10 L05 Quiz 4 - 02 related including studying
+ZCZC W04 30 L05 Quiz 4 - 01 related including studying
+ZCZC W04 45 L06 Reading Silberschatz et. al.: Operating System Concepts (ch9)
+ZCZC W04 20 L21 Trying Previous MidTerm Problems
+ZCZC W04 10 L07 Checking Demo
+ZCZC W04 30 L06 Read website and watch YouTube about Main Memory
+ZCZC W04 90 L11 Assignment #01: Readings and Demos
+ZCZC W04 20 L12 Assignment #2: Compiling The Linux Programming Interface (TLPI)
+ZCZC W04 10 L12 Assignment #2: Script Download
+ZCZC W04 10 L12 Assignment #2: Compiling TLPI
+ZCZC W04 20 L13 Assignment #3: Finishing
+ZCZC W04 10 L03 GitHub and git related, including commit, push, pull
