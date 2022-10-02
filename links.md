@@ -164,7 +164,7 @@ in the cstring) may be present in the given `cstring`. Return Value: The total n
 to the standard output is returned if the function is successfully invoked. A negative number is returned if there is an error.
 `c-string` is the string that was supplied to the function as an argument. If there are any format specifiers in the 
 `c-string`, then there may be more arguments after it.<br>
-` int printf (const char* c-string, ...);`
+`int printf (const char* c-string, ...);`
 
 4. [Memory Management](https://docs.kernel.org/admin-guide/mm/index.html)<br>
 The Linux memory management subsystem is in charge of overseeing the system's memory. 
