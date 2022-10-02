@@ -144,6 +144,32 @@ To decrypt a file with GPG symmetric key:
 	gpg --output file.txt -d output.asc
 ```
 
+## WEEK-04
+
+1. [Operating System Concepts: Main Memory](https://www.os-book.com/OS10/slide-dir/PPTX-dir/ch9.pptx)<br>
+In this slide, I learn to provide a detailed description of various ways of organizing memory
+hardware; To discuss various memory-management techniques,; To provide a detailed description of the Intel 
+Pentium, which supports both pure segmentation and segmentation with paging. This slide also taught me
+about Contiguous Memory Allocation, Paging, Structure of the Page Table, and Swapping.
+
+2. [What is Makefile for C program compilation and How to create Makefile?](https://www.includehelp.com/c-programming-questions/what-is-makefile.aspx)<br>
+A Makefile is a tool for organizing or streamlining compilation-related code. Makefile is a collection of 
+commands (similar to terminal commands) that may be used to create and delete object files. We can construct 
+many targets to compile and remove object, binary files in a single make file. Using Makefile, we can compile 
+our project (software) as many times as we want.
+
+3. [C library function - printf()](https://www.tutorialspoint.com/c_standard_library/c_function_printf.htm)<br>
+A `cstring` is sent to `stdout` by the C function `printf` (print formatted). Format specifiers (starting with `%`
+in the cstring) may be present in the given `cstring`. Return Value: The total number of characters that were written 
+to the standard output is returned if the function is successfully invoked. A negative number is returned if there is an error.
+`c-string` is the string that was supplied to the function as an argument. If there are any format specifiers in the 
+`c-string`, then there may be more arguments after it.<br>
+` int printf (const char* c-string, ...);`
+
+4. [Memory Management](https://docs.kernel.org/admin-guide/mm/index.html)<br>
+The Linux memory management subsystem is in charge of overseeing the system's memory. 
+This covers the implementation of demand paging and virtual memory, memory allocation for both kernel internal 
+structures and user space programs, mapping of files into processes address space, and many other things.
 
 <br>
 <hr>
