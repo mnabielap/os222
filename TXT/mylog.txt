@@ -82,3 +82,22 @@ ZCZC W04 10 L12 Assignment #2: Script Download
 ZCZC W04 10 L12 Assignment #2: Compiling TLPI
 ZCZC W04 20 L13 Assignment #3: Finishing
 ZCZC W04 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W05 100 L02 ZOOM meetings related on 4 Oct
+ZCZC W05 100 L02 ZOOM meetings related on 6 Oct
+ZCZC W05 10 L01 SCELE Checking SCELE for Information
+ZCZC W05 15 L05 Quiz 5 - 02 related including studying
+ZCZC W05 20 L05 Quiz 5 - 01 related including studying
+ZCZC W05 60 L06 Reading Silberschatz et. al.: Operating System Concepts (ch10)
+ZCZC W05 10 L21 Trying Previous MidTerm Problems
+ZCZC W05 10 L07 Checking Demo
+ZCZC W05 25 L06 Read website and watch YouTube about Virtual Memory
+ZCZC W05 100 L11 Assignment #01: Readings and Demos
+ZCZC W05 40 L12 Assignment #2: How Low (Memory) Can You Go?
+ZCZC W05 15 L12 Assignment #2: Backup VM and Clone to LOW-MEMORY
+ZCZC W05 25 L12 Assignment #2: Try to get as low memory as possible
+ZCZC W05 15 L13 Assignment #3: Script Download (User Mode)
+ZCZC W05 30 L14 Assignment #4: Memory
+ZCZC W05 10 L14 Assignment #4: TARBALL & bash things 
+ZCZC W05 20 L14 Assignment #4: Rearrange mymemory2
+ZCZC W05 15 L15 Assignment #5: Finishing
+ZCZC W05 10 L03 GitHub and git related, including commit, push, pull
