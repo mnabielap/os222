@@ -171,6 +171,28 @@ The Linux memory management subsystem is in charge of overseeing the system's me
 This covers the implementation of demand paging and virtual memory, memory allocation for both kernel internal 
 structures and user space programs, mapping of files into processes address space, and many other things.
 
+## WEEK-05
+
+1. [Operating System Concepts: Virtual Memory](https://www.os-book.com/OS10/slide-dir/PPTX-dir/ch10.pptx)<br>
+In this slide, I learn to define virtual memory and describe its benefits; illustrate how pages are loaded into memory using demand paging; 
+apply the FIFO, optimal, and LRU page-replacement algorithms; describe the working set of a process, and explain how it is related to
+program locality; describe how Linux, Windows 10, Solaris manage virtual memory; and design a virtual memory manager simulation in the C programming
+language.
+
+2. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+Virtual Memory is a storage allocation scheme in which secondary memory can be addressed as though it were part of the main memory.
+Program-generated addresses are automatically translated into the matching machine addresses, allowing programs to distinguish between addresses used 
+by the memory system to identify physical storage sites and addresses used by programs to refer to memory.
+
+3. [What is virtual memory? – Gary explains](https://www.youtube.com/watch?v=2quKyPnUShQ)<br>
+In other words the physical representation of memory and virtual memory is equivalent to how inventory is shipped to a warehouse and memory is the amount 
+of space the warehouse can store of that shipment. Virtual memory is a shipment being processed to go either in its storage location or to be used in either 
+to be once again shipped out or for some function in the warehouse/facility.
+
+4. [Demand Paging](https://www.javatpoint.com/os-demand-paging)<br>
+In computer operating systems, demand paging (as opposed to anticipatory paging) is a method of virtual memory management. In a system that uses demand paging, 
+the operating system copies a disk page into physical memory only if an attempt is made to access it and that page is not already in memory (i.e., if a page fault occurs).
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
