@@ -104,7 +104,7 @@ ZCZC W05 10 L03 GitHub and git related, including commit, push, pull
 ZCZC W06 100 L02 ZOOM meetings related on 1 Nov
 ZCZC W06 100 L02 ZOOM meetings related on 3 Nov
 ZCZC W06 10 L01 SCELE Checking SCELE for Information
-ZCZC W06 30 L05 Quiz 5 - 01 related including studying
+ZCZC W06 30 L05 Quiz 6 - 01 related including studying
 ZCZC W06 90 L06 Reading Silberschatz et. al.: Operating System Concepts (ch3, 4)
 ZCZC W06 15 L21 Trying Previous Final Problems
 ZCZC W06 10 L07 Checking Demo
