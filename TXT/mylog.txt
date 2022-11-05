@@ -101,3 +101,18 @@ ZCZC W05 10 L14 Assignment #4: TARBALL & bash things
 ZCZC W05 20 L14 Assignment #4: Rearrange mymemory2
 ZCZC W05 15 L15 Assignment #5: Finishing
 ZCZC W05 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W06 100 L02 ZOOM meetings related on 1 Nov
+ZCZC W06 100 L02 ZOOM meetings related on 3 Nov
+ZCZC W06 10 L01 SCELE Checking SCELE for Information
+ZCZC W06 30 L05 Quiz 5 - 01 related including studying
+ZCZC W06 90 L06 Reading Silberschatz et. al.: Operating System Concepts (ch3, 4)
+ZCZC W06 15 L21 Trying Previous Final Problems
+ZCZC W06 10 L07 Checking Demo
+ZCZC W06 5 L31 Backup OVA File
+ZCZC W06 5 L31 Rename Debian Virtual Guest, Return to the previous memory setting
+ZCZC W06 10 L31 Update my kernel
+ZCZC W06 30 L12 Assignment #2: Script Download (User Mode)
+ZCZC W06 60 L13 Assignment #3: Fork() and Shared Memory
+ZCZC W06 30 L13 Assignment #3: Check and Read RESULT (compare plus analyze code and result)
+ZCZC W06 30 L14 Assignment #4: Finishing (update github TXT)
+ZCZC W06 10 L03 GitHub and git related, including commit, push, pull
