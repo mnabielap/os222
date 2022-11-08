@@ -193,6 +193,60 @@ to be once again shipped out or for some function in the warehouse/facility.
 In computer operating systems, demand paging (as opposed to anticipatory paging) is a method of virtual memory management. In a system that uses demand paging, 
 the operating system copies a disk page into physical memory only if an attempt is made to access it and that page is not already in memory (i.e., if a page fault occurs).
 
+## WEEK-06
+
+1. [Operating System Concepts: Processes](https://www.os-book.com/OS10/slide-dir/PPTX-dir/ch3.pptx)<br>
+this slide, I learn to Identify the separate components of a process and illustrate how they are represented and scheduled in an operating system.
+Describe how processes are created and terminated in an operating system, including developing programs using the appropriate system
+calls that perform these operations. Describe and contrast interprocess communication using shared memory and message passing. Design programs that uses 
+pipes and POSIX shared memory to perform interprocess communication. Describe client-server communication using sockets and remote procedure calls. 
+Design kernel modules that interact with the Linux operating system.
+
+2. [Operating System Concepts: Threads & Concurrency](https://www.os-book.com/OS10/slide-dir/PPTX-dir/ch4.pptx)<br>
+By reading this slide, I understand more how to Identify the basic components of a thread, and contrast threads
+and processes. Describe the benefits and challenges of designng multithreaded applications. Illustrate different approaches to implicit threading including
+thread pools, fork-join, and Grand Central Dispatch. Describe how the Windows and Linux operating systems
+represent threads. Designing multithreaded applications using the Pthreads, Java, and Windows threading APIs 
+
+3. [Operating System - Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm)<br>
+A process is basically a program in execution. The execution of a process must progress in a sequential fashion.
+`A process is defined as an entity which represents the basic unit of work to be implemented in the system.`
+When a program is loaded into the memory and it becomes a process, it can be divided into four sections ─ stack, 
+heap, text and data. The following image shows a simplified layout of a process inside main memory 
+
+4. [Threads in Operating System](https://www.javatpoint.com/threads-in-operating-system)<br>
+A thread is also called a thread of execution or a thread of control because it is a single continuous flow that performs the tasks of a process. 
+Threads can run within processes on all operating systems. Apart from that, there can be multiple threads within a process. Each thread in the same 
+process uses a separate program counter and stack of startup records and control blocks. Threads are often referred to as lightweight processes.
+
+5. [How to Use SCP Command to Securely Transfer Files](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)<br>
+`scp [OPTION] [user@]SRC_HOST:]file1 [user@]DEST_HOST:]file2`
+`OPTION` - scp options such as cipher, ssh configuration, ssh port, limit, recursive copy …etc.
+`[user@]SRC_HOST:]file1` - Source file.
+`[user@]DEST_HOST:]file2` - Destination file
+
+6. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
+Fork system call is used for creating a new process, which is called child process, which runs concurrently with the process that makes the fork() 
+call (parent process). After a new child process is created, both processes will execute the next instruction following the fork() system call. 
+A child process uses the same pc(program counter), same CPU registers, same open files which use in the parent process.
+
+## WEEK-07
+
+1. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
+Processes are classified into one of two types based on synchronization:
+```
+- Independent Process:
+The execution of one process does not affect the execution of other processes.
+- Cooperative Process: 
+A process that affects or can be affected by other processes running on the system.
+Process Synchronization Problems occur in the case of cooperating processes because cooperating processes share resources.
+```
+
+2. [Process Synchronization in OS](https://www.scaler.com/topics/operating-system/process-synchronization-in-os/)<br>
+Process synchronization, or synchronization, is how the operating system manages processes that share the same memory space. 
+Use variables or hardware to maintain data consistency and allow only one process to modify shared memory at a time.
+
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
