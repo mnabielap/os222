@@ -232,7 +232,22 @@ A child process uses the same pc(program counter), same CPU registers, same open
 
 ## WEEK-07
 
-1. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
+1. [Operating System Concepts: Synchronization Tools](https://www.os-book.com/OS10/slide-dir/PPTX-dir/ch6.pptx)<br>
+in this slide, I learn to describe the critical-section problem and illustrate a race condition. Illustrate hardware solutions to the critical-section
+problem using memory barriers, compare-and-swap operations, and atomic variables. Demonstrate how mutex locks, semaphores, monitors, and condition variables can be used to
+solve the critical section problem. Evaluate tools that solve the critical-section problem in low-, Moderate-, and high-contention scenarios
+
+2. [Operating System Concepts: Synchronization Examples](https://www.os-book.com/OS10/slide-dir/PPTX-dir/ch7.pptx)<br>
+By reading this slide, I understand more to explain the bounded-buffer synchronization problem. Explain the readers-writers synchronization problem. 
+Explain and dining-philosophers synchronization problems. Describe the tools used by Linux and Windows to solve synchronization problems. Illustrate how POSIX and Java can be used to solve process
+synchronization problems
+
+3. [Operating System Concepts: Deadlocks](https://www.os-book.com/OS10/slide-dir/PPTX-dir/ch8.pptx)<br>
+this slide made me understand about Illustrate how deadlock can occur when mutex locks are used. Define the four necessary conditions that characterize deadlock. 
+Identify a deadlock situation in a resource allocation graph. Evaluate the four different approaches for preventing deadlocks. Apply the banker’s algorithm for deadlock avoidance. 
+Apply the deadlock detection algorithm. Evaluate approaches for recovering from deadlock
+
+4. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
 Processes are classified into one of two types based on synchronization:
 ```
 - Independent Process:
@@ -242,9 +257,20 @@ A process that affects or can be affected by other processes running on the syst
 Process Synchronization Problems occur in the case of cooperating processes because cooperating processes share resources.
 ```
 
-2. [Process Synchronization in OS](https://www.scaler.com/topics/operating-system/process-synchronization-in-os/)<br>
+5. [Process Synchronization in OS](https://www.scaler.com/topics/operating-system/process-synchronization-in-os/)<br>
 Process synchronization, or synchronization, is how the operating system manages processes that share the same memory space. 
 Use variables or hardware to maintain data consistency and allow only one process to modify shared memory at a time.
+
+6. [What is a semaphore? How do they work? (Example in C)](https://www.youtube.com/watch?v=ukM_zzrIeXs)<br>
+Semaphore is an integer variable which is used as a signal to allow or not allow a process to access the critical section of the code or certain other resources. 
+There are two types of semaphores: Binary - take on values 0 or 1. Counting - take on any integer value.
+
+7. [Deadlock Dan Starvation](https://www.gurupendidikan.co.id/deadlock-dan-starvation/)<br>
+Deadlock is a condition in which two or more processes wait for another process to release the resources that are currently in use. Because several processes 
+are waiting for each other, there is no progress in the work of these processes.
+
+8. [Peterson’s Algorithm for Mutual Exclusion](https://tutorialspoint.dev/computer-science/operating-systems/petersons-algorithm-for-mutual-exclusion-set-1)<br>
+in this website I learn about Peterson's algorithm examples
 
 
 <br>
