@@ -116,3 +116,17 @@ ZCZC W06 60 L13 Assignment #3: Fork() and Shared Memory
 ZCZC W06 30 L13 Assignment #3: Check and Read RESULT (compare plus analyze code and result)
 ZCZC W06 30 L14 Assignment #4: Finishing (update github TXT)
 ZCZC W06 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W07 100 L02 ZOOM meetings related on 8 Nov
+ZCZC W07 100 L02 ZOOM meetings related on 10 Nov
+ZCZC W07 10 L01 Checking SCELE for Information
+ZCZC W07 20 L05 Quiz 7 - 02 related including studying
+ZCZC W07 30 L05 Quiz 7 - 01 related including studying
+ZCZC W07 120 L06 Reading Silberschatz et. al.: Operating System Concepts (ch6, 7, 8)
+ZCZC W07 15 L21 Trying Previous Final Problems
+ZCZC W07 10 L07 Checking Demo
+ZCZC W07 5 L31 Backup OVA File
+ZCZC W07 130 L11 Assignment #1: Readings, Demo, and Run bash script "Week07/98-DEMO-CHECK.sh"
+ZCZC W07 10 L12 Assignment #2: Script Download (User Mode)
+ZCZC W07 30 L13 Assignment #3: Synchronization and run "insertShareMemory"
+ZCZC W07 40 L14 Assignment #4: Finishing (links.md, mylog, myrank, myupdate)
+ZCZC W07 10 L03 GitHub and git related, including commit, push, pull
