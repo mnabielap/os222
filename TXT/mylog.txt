@@ -130,3 +130,21 @@ ZCZC W07 10 L12 Assignment #2: Script Download (User Mode)
 ZCZC W07 30 L13 Assignment #3: Synchronization and run "insertShareMemory"
 ZCZC W07 40 L14 Assignment #4: Finishing (links.md, mylog, myrank, myupdate)
 ZCZC W07 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W08 100 L02 Zoom meeting on Nov 15th 2022
+ZCZC W08 100 L99 Offline class on Nov 17th 2022
+ZCZC W08 10 L01 Checking SCELE for Information
+ZCZC W08 40 L05 Quiz 8 - 02 related including studying
+ZCZC W08 40 L05 Quiz 8 - 01 related including studying
+ZCZC W08 90 L06 Reading Silberschatz et. al.: Operating System Concepts (ch5)
+ZCZC W08 15 L21 Trying Previous Final Problems
+ZCZC W08 10 L07 Checking Demo
+ZCZC W08 40 L31 Backup OVA File
+ZCZC W08 120 L32 YouTube: Watch Scheduling recording
+ZCZC W08 180 L11 Assignment #1: Readings, Demo, and Run bash script "Week08/98-W08-DEMO-CHECK.sh"
+ZCZC W08 10 L12 Assignment #2: Script Download (User Mode)
+ZCZC W08 300 L13 Assignment #3: Linux From Scratch 11.2 Ch. 1-5
+ZCZC W08 40 L13 Assignment #3: Preparation 
+ZCZC W08 250 L13 Assignment #3: Follow “The Linux From Scratch version 11.2 Book” chapter 1-5
+ZCZC W08 10 L13 Assignment #3: Generate LFS Ch. 1-5 Report and Result/Report
+ZCZC W08 40 L14 Assignment #4: Finishing (links.md, mylog, myrank, myupdate)
+ZCZC W08 10 L03 GitHub and git related, including commit, push, pull
