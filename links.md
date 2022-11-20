@@ -272,6 +272,42 @@ are waiting for each other, there is no progress in the work of these processes.
 8. [Peterson’s Algorithm for Mutual Exclusion](https://tutorialspoint.dev/computer-science/operating-systems/petersons-algorithm-for-mutual-exclusion-set-1)<br>
 in this website I learn about Peterson's algorithm examples
 
+## WEEK-08
+
+1. [Operating System Concepts: CPU Scheduling](https://www.os-book.com/OS10/slide-dir/PPTX-dir/ch5.pptx)<br>
+in this slide, I learn to Describe various CPU scheduling algorithms. Assess CPU scheduling algorithms based on scheduling criteria. 
+Explain the issues related to multiprocessor and multicore scheduling. Describe various real-time scheduling algorithms. 
+Describe the scheduling algorithms used in the Windows, Linux, and Solaris operating systems. Apply modeling and simulations to evaluate CPU scheduling
+algorithms
+
+2. [Process Scheduling in OS: Long, Medium, Short Term Scheduler](https://www.guru99.com/process-scheduling.html)<br>
+Process scheduling allows OS to allocate a time interval of CPU execution for each process. Another important reason for using a process scheduling system 
+is that it keeps the CPU busy all the time. This allows you to get the minimum response time for programs.
+
+3. [CPU and I/O Burst Cycles](https://www.youtube.com/watch?v=pVzb3TUcDLo)<br>
+this video makes me understand more about
+```
+1) CPU Burst.
+2) I/O Burst.
+3) CPU and I/O Burst Cycles.
+```
+
+4. [Preemptive and Non-Preemptive Scheduling Video](https://www.youtube.com/watch?v=4DhFmL-6SDA)<br>
+this video makes me understand more about
+```
+1) CPU Scheduler.
+2) Dispatchers.
+3) Preemptive Scheduling.
+4) Non-Preemptive Scheduling.
+```
+
+5. [Preemptive and Non-Preemptive Scheduling GFG](https://www.geeksforgeeks.org/preemptive-and-non-preemptive-scheduling/)<br>
+Preemptive scheduling is used when a process switches from running state to ready state or from the waiting state to ready state.
+Non-preemptive Scheduling is used when a process terminates, or a process switches from running to the waiting state.
+
+6. [How to build Linux From Scratch 11.2 (Chap 1-5)](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)<br>
+This series of videos shows how you can take a Windows 10 PC (or with any other version or OS) and install your own Linux operating 
+system by installing Linux From Scratch 11.2.
 
 <br>
 <hr>
