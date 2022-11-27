@@ -348,6 +348,10 @@ BIOS is short for Basic Input-Output system. It’s low-level software that resi
 A chroot environment provides functionality similar to that of a virtual machine, but it is a lighter solution. The captive system doesn’t need a hypervisor to be installed and configured, 
 such as VirtualBox or Virtual Machine Manager. 
 
+10. [How to build Linux From Scratch 11.2 (Chap 6-7)](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)<br>
+This series of videos shows how you can take a Windows 10 PC (or with any other version or OS) and install your own Linux operating 
+system by installing Linux From Scratch 11.2.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
