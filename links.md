@@ -309,6 +309,45 @@ Non-preemptive Scheduling is used when a process terminates, or a process switch
 This series of videos shows how you can take a Windows 10 PC (or with any other version or OS) and install your own Linux operating 
 system by installing Linux From Scratch 11.2.
 
+## WEEK-09
+
+1. [Operating System Concepts: Mass-Storage Systems](https://www.os-book.com/OS10/slide-dir/PPTX-dir/ch11.pptx)<br>
+in this slide, I learn to Describe the physical structure of secondary storage devices and the effect of a device’s structure on its uses. 
+Explain the performance characteristics of mass-storage devices. Evaluate I/O scheduling algorithms. Discuss operating-system services provided for mass storage, 
+including RAID
+
+2. [Mass-Storage Structure](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/10_MassStorage.html)<br>
+Mass storage refers to systems meant to store large amounts of data. In many cases, massive storage is synonymous with peripheral storage, where external devices 
+or media help to manage larger amounts of information that have exceeded the capacity of a computer or device's native storage capabilities.
+
+3. [Non-volatile memory](https://en.wikipedia.org/wiki/Non-volatile_memory)<br>
+Non-volatile memory (NVM) or non-volatile storage is a type of computer memory that can retain stored information even after power is removed. In contrast, volatile memory needs constant power in order to retain data. 
+Non-volatile memory typically refers to storage in semiconductor memory chips, which store data in floating-gate memory cells consisting of floating-gate MOSFETs (metal–oxide–semiconductor field-effect transistors), 
+including flash memory storage such as NAND flash and solid-state drives (SSD).
+
+4. [Volatile memory](https://www.techtarget.com/whatis/definition/volatile-memory)<br>
+Volatile memory, in contrast to non-volatile memory, is computer memory that requires power to maintain the stored information; it retains its contents while powered on but when the power is interrupted, the stored data is quickly lost. 
+Volatile memory has several uses including as primary storage. In addition to usually being faster than forms of mass storage such as a hard disk drive, volatility can protect sensitive information, as it becomes unavailable on power-down. 
+Most general-purpose random-access memory (RAM) is volatile.
+
+5. [Redundant Arrays of Independent Disks](https://www.computerworld.com/article/2595506/redundant-arrays-of-independent-disks.html)<br>
+A redundant array of independent disks (RAID) is a common system for high-volume data storage at the server level. RAID systems use many small-capacity disk drives to store large amounts of data and to provide increased reliability and redundancy. 
+Such an array appears to the computer as a single logical unit consisting of multiple disk drives.
+
+6. [Firmware](https://techterms.com/definition/firmware)<br>
+Firmware is a software program or set of instructions programmed on a hardware device. It provides the necessary instructions for how the device communicates with the other computer hardware.
+
+7. [BIOS function on a computer, know how it works and its types](https://www.merdeka.com/sumut/fungsi-bios-pada-komputer-pengertian-cara-kerja-dan-jenisnya-kln.html)<br>
+The BIOS (basic input/output system) is the program a personal computer's microprocessor uses to start up the computer system after you turn it on. It also manages the flow of data between 
+the computer's operating system and attached devices such as hard drives, video adapters, keyboards, mice, and printers.
+
+8. [What Is UEFI, and How Is It Different from BIOS?](https://www.howtogeek.com/56958/htg-explains-how-uefi-will-replace-the-bios/)<br>
+BIOS is short for Basic Input-Output system. It’s low-level software that resides in a chip on your computer’s motherboard.
+
+9. [How to Use the chroot Command on Linux](https://www.howtogeek.com/441534/how-to-use-the-chroot-command-on-linux/)<br>
+A chroot environment provides functionality similar to that of a virtual machine, but it is a lighter solution. The captive system doesn’t need a hypervisor to be installed and configured, 
+such as VirtualBox or Virtual Machine Manager. 
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
