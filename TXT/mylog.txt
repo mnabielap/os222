@@ -148,3 +148,18 @@ ZCZC W08 250 L13 Assignment #3: Follow “The Linux From Scratch version 11.2 Bo
 ZCZC W08 10 L13 Assignment #3: Generate LFS Ch. 1-5 Report and Result/Report
 ZCZC W08 40 L14 Assignment #4: Finishing (links.md, mylog, myrank, myupdate)
 ZCZC W08 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W09 100 L99 Offline class on Nov 22th 2022
+ZCZC W09 100 L99 Offline class on Nov 24th 2022
+ZCZC W09 10 L01 Checking SCELE for Information
+ZCZC W09 30 L05 Quiz 9 - 02 related including studying
+ZCZC W09 30 L05 Quiz 9 - 01 related including studying
+ZCZC W09 60 L06 Reading Silberschatz et. al.: Operating System Concepts (ch11)
+ZCZC W09 15 L21 Trying Previous Final Problems
+ZCZC W09 10 L07 Checking Demo
+ZCZC W09 30 L31 Backup OVA File
+ZCZC W09 70 L11 Assignment #1: Readings and Demos & Update
+ZCZC W09 10 L12 Assignment #2: Script Download (User Mode)
+ZCZC W09 240 L13 Assignment #3: Linux From Scratch 11.2 Ch. 6-7
+ZCZC W09 20 L13 Assignment #3: Generate LFS Ch. 6-7 Report
+ZCZC W09 40 L14 Assignment #4: Finishing (links.md, mylog, myrank, myupdate)
+ZCZC W09 10 L03 GitHub and git related, including commit, push, pull
