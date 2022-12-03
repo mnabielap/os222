@@ -352,6 +352,37 @@ such as VirtualBox or Virtual Machine Manager.
 This series of videos shows how you can take a Windows 10 PC (or with any other version or OS) and install your own Linux operating 
 system by installing Linux From Scratch 11.2.
 
+## WEEK-10
+
+1. [Operating System Concepts: I/O Systems](https://www.os-book.com/OS10/slide-dir/PPTX-dir/ch12.pptx)<br>
+in this slide, I learn to Explore the structure of an operating system’s I/O subsystem, 
+Discuss the principles and complexities of I/O hardware, Explain the performance aspects of I/O hardware and software
+
+2. [Operating System - I/O Hardware](https://www.tutorialspoint.com/operating_system/os_io_hardware.htm)<br>
+One of the important jobs of an Operating System is to manage various I/O devices including mouse, keyboards, touch pad, 
+disk drives, display adapters, USB devices, Bit-mapped screen, LED, Analog-to-digital converter, On/off switch, network 
+connections, audio I/O, printers etc. An I/O system is required to take an application I/O request and send it to the 
+physical device, then take whatever response comes back from the device and send it to the application. I/O devices 
+can be divided into two categories Block devices and Character devices.
+
+3. [Operating System - I/O Softwares](https://www.tutorialspoint.com/operating_system/os_io_software.htm)<br>
+A key concept in the design of I/O software is that it should be device independent where it should be possible to 
+write programs that can access any I/O device without having to specify the device in advance. For example, a 
+program that reads a file as input should be able to read a file on a floppy disk, on a hard disk, or on a CD-ROM, 
+without having to modify the program for each different device.
+
+4. [Direct Memory Access (DMA)](https://www.techopedia.com/definition/2767/direct-memory-access-dma)<br>
+Direct memory access (DMA) is a method that allows an input/output (I/O) device to send or receive data directly to 
+or from the main memory, bypassing the CPU to speed up memory operations.
+
+5. [Hardware Support for Operating Systems](https://engineering.purdue.edu/~ebertd/469/notes/EE469-ch2.pdf)<br>
+Device-status table contains entry for each I/O device indicating its type, address, and state. Operating system indexes 
+into I/O device table to determine device status and to modify table entry to include interrupt.
+
+6. [How to build Linux From Scratch 11.2 (Chap 8)](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)<br>
+This series of videos shows how you can take a Windows 10 PC (or with any other version or OS) and install your own Linux operating 
+system by installing Linux From Scratch 11.2.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
